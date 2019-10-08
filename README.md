@@ -8,8 +8,8 @@ O banco colaborativo de bases de dados. Acesse [**aqui**](https://colaboradados.
 
 ## Stack
 
-- [Jekyll][https://jekyllrb.com/] para geração de páginas estáticas
-- [SCSS][https://sass-lang.com/] para estilos
+- [Jekyll](https://jekyllrb.com/) para geração de páginas estáticas
+- [SCSS](https://sass-lang.com/) para estilos
 
 ---
 
